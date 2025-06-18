@@ -20,7 +20,7 @@ This backend service extracts pose keypoints from uploaded images using a Python
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/mediapipe-pose-backend.git
+git clone https://github.com/VigneshFenrir/mediapipe-pose-backend.git
 cd mediapipe-pose-backend
 2. Install Dependencies
 bash
